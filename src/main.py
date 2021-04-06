@@ -240,7 +240,6 @@ def tree(x,y):
     col2=col_change2(col2)
     t.color(str(col_join(col1,col2,col3)))
     t.end_fill()
-    col2=col_change(col2)
     ####part two
     #change position
     t.penup()
